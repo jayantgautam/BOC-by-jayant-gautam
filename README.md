@@ -1,4 +1,4 @@
-# BOC-by-jayant-gautam
+# TicTacToe_bsc_cd (by Jayant Gautam)
 
 A simple two-player Tic Tac Toe game built using Python.
 The game runs in the terminal and allows two users to play turn by turn using X and O.
