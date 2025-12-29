@@ -53,7 +53,7 @@ python tictactoe.py
 
 Follow the on-screen instructions to play
 
-# HOW TH GAME WORK'S 
+# HOW TH GAME WORKS 
 
 Players choose positions from 1 to 9
 
