@@ -8,22 +8,27 @@ The game runs in the terminal and allows two users to play turn by turn using X 
 Two-player gameplay (Player X vs Player O):
 
 -Interactive console input.
+
 -Game rules loaded from an external text file.
+
 -Automatic win and draw detection.
+
 -Game history saved to a file.
 
 # TECHNOLOGIES USED
+
 Python 3
 
 File handling (.txt files)
 
 Basic control structures and functions
 
-PROJECT STRUCTURE
+# PROJECT STRUCTURE
 
 Copy code
 
 .
+
 ├── tictactoe.py
 
 ├── gamerule.txt
@@ -32,7 +37,7 @@ Copy code
 
 └── README.md
 
-HOW TO RUN
+# HOW TO RUN
 
 Make sure Python 3 is installed
 
@@ -48,7 +53,7 @@ python tictactoe.py
 
 Follow the on-screen instructions to play
 
-HOW TH GAME WORK'S 
+# HOW TH GAME WORK'S 
 
 Players choose positions from 1 to 9
 
