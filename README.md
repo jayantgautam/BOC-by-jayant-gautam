@@ -8,15 +8,11 @@ FEATURE
 Two-player gameplay (Player X vs Player O)
 
 Interactive console input
-
 Game rules loaded from an external text file
-  
 Automatic win and draw detection
-
 Game history saved to a file
 
 TECHNOLOGIES USED
-
 Python 3
 
 File handling (.txt files)
