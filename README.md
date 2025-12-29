@@ -3,16 +3,16 @@
 A simple two-player Tic Tac Toe game built using Python.
 The game runs in the terminal and allows two users to play turn by turn using X and O.
 
-FEATURE
+# FEATURE
 
-Two-player gameplay (Player X vs Player O)
+Two-player gameplay (Player X vs Player O):
 
-Interactive console input
-Game rules loaded from an external text file
-Automatic win and draw detection
-Game history saved to a file
+-Interactive console input.
+-Game rules loaded from an external text file.
+-Automatic win and draw detection.
+-Game history saved to a file.
 
-TECHNOLOGIES USED
+# TECHNOLOGIES USED
 Python 3
 
 File handling (.txt files)
