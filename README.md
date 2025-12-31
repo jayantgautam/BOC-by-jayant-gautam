@@ -25,7 +25,7 @@ Basic control structures and functions
 
 # PROJECT STRUCTURE
 
-Copy code
+Copy code and run
 
 .
 
