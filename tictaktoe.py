@@ -2,7 +2,7 @@
 name = input("Your good name ")
 print("hi", name)
 name2 = input("2nd player name: ")
-print("So,", str.upper(name), "you can start the game and you will be the 'X' and", str.upper(name2), "will get the 'O' or you can do viceversa")
+print("So,", str.upper(name), "you can start the game and you will be the 'X' and", str.upper(name2), "will get the 'O' or u can do viceversa")
 file = open("gamerule.txt", "r")
 content = file.read()
 print(content)
@@ -72,5 +72,6 @@ while True:
 #winners record
 with open("game history.txt", 'a') as file:
     file.write("\n" + str(name) + " and " + str(name2) + " were playing and player carrying '" + str(player) + "' win")
+
 
 
